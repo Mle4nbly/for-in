@@ -1,4 +1,4 @@
-import orderByProps from "../js/app.js";
+import orderByProps from "../js/sorting.js";
 
 test('Функция работает правильно', () => {
     const obj = {

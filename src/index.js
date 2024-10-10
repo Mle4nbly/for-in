@@ -1,1 +1,1 @@
-import orderByProps from "./js/app.js";
+import "./js/app.js";
