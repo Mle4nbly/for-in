@@ -7,8 +7,7 @@
     "test": "jest",
     "lint": "eslint .",
     "start": "webpack serve --mode development",
-    "build": "webpack --mode production",
-    "babel": "babel src -d dist"
+    "build": "webpack --mode production"
   },
   "author": "",
   "license": "ISC",
